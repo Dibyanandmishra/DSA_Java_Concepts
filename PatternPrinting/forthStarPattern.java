@@ -6,7 +6,7 @@
 
 package PatternPrinting;
 
-public class fourthStarPattern {
+public class forthStarPattern {
     public static void main(String[] args) {
         int rows = 4;
 
