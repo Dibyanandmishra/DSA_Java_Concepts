@@ -1,7 +1,6 @@
 // You are given an integer n. Return the largest digit present in the number. 
 
-package DSAWithFrnds;
-
+package ProblemsOnNumbers;
 import java.util.Scanner;
 
 public class returnLargestDigitOfaNumber {

@@ -1,7 +1,7 @@
 // You are given an integer n. You need to check if the number is a perfect number or not. Return true if it is a perfect number, otherwise, return false.
 // A perfect number is a number whose proper divisors (excluding the number itself) add up to the number itself.
 
-package DSAWithFrnds;
+package ProblemsOnNumbers;
 import java.util.Scanner;
 
 public class perfectNumber {

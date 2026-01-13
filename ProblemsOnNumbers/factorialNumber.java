@@ -1,7 +1,7 @@
 // You are given an integer n. Return the value of n! or n factorial. 
 // Factorial of a number is the product of all postive integers less than or equal to that number.
 
-package DSAWithFrnds;
+package ProblemsOnNumbers;
 import java.util.Scanner;
 
 public class factorialNumber {

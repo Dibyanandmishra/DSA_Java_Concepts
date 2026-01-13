@@ -1,6 +1,6 @@
 // You are given an integer n. Return the integer formed by placing the digits of n in the reverse order. 
 
-package DSAWithFrnds;
+package ProblemsOnNumbers;
 import java.util.Scanner;
 
 public class reverseNumber {
