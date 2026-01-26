@@ -3,7 +3,7 @@
 package sorting;
 import java.util.Scanner;
 
-public class intertionSort {
+public class IntertionSort {
     public static int[] intertion_sort(int[] nums) {
         int n = nums.length;
 
